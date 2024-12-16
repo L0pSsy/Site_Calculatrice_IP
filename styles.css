@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(/image/Tictac.jpg); /* URL de l'image */
+    background-image: url(Tictac.jpg); /* URL de l'image */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
